@@ -3,6 +3,8 @@
 This repository contains public release builds of the Deep Dive desktop app.
 The source code is maintained in a private repository.
 
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/e0f97c6e-1caf-4744-88be-d2b54b01cffe" />
+
 ## Download
 Go to the Releases page and download the installer for your OS.
 Warning: because this is Early Access, the builds are unsigned which requires following steps below to avoid OS warnings.
