@@ -51,4 +51,4 @@ This EULA is governed by the laws of the jurisdiction where the Licensor resides
 without regard to conflict of laws principles.
 
 10. CONTACT
-If you have questions about this EULA, contact: bogdanguranda@gmail.com
+If you have questions about this EULA, open an issue in this repo.

@@ -19,4 +19,4 @@ Deep Dive is provided under an End User License Agreement (EULA).
 See `EULA.txt` in this repo.
 
 ## Support
-For issues or feedback, please create tickets on this repo.
+For issues or feedback, please open an issue on this repo.
