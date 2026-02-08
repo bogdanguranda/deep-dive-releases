@@ -22,7 +22,7 @@ Click "More info" and then "Run anyway" to launch.
 
 ## License / EULA
 Deep Dive is provided under an End User License Agreement (EULA).
-See `EULA.txt` in this repo.
+See `EULA.txt` in this repo or in the app under Help → View License.
 
 ## Support
 For issues or feedback, please open an issue on this repo.
