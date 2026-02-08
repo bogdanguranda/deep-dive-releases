@@ -1,0 +1,54 @@
+DEEP DIVE END USER LICENSE AGREEMENT (EULA)
+
+Last updated: 2026-02-08
+
+IMPORTANT: PLEASE READ THIS EULA CAREFULLY BEFORE INSTALLING OR USING THIS SOFTWARE.
+BY INSTALLING, COPYING, OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THIS EULA.
+
+1. DEFINITIONS
+"Software" means the Deep Dive application and any accompanying documentation, updates,
+features, or components provided by the Licensor.
+"Licensor" means Bogdan Guranda.
+"You" means the individual or legal entity using the Software.
+
+2. LICENSE GRANT
+Subject to your compliance with this EULA, the Licensor grants you a personal, non-exclusive,
+non-transferable, revocable license to install and use the Software for your own internal use.
+
+3. RESTRICTIONS
+You agree not to, and will not permit others to:
+- Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code
+  or underlying ideas of the Software, except to the extent permitted by applicable law.
+- Modify, adapt, translate, or create derivative works of the Software.
+- Rent, lease, lend, sell, sublicense, distribute, or otherwise make the Software available
+  to any third party without prior written permission from the Licensor.
+- Remove or alter any proprietary notices or labels on the Software.
+
+4. OWNERSHIP
+The Software is licensed, not sold. The Licensor retains all right, title, and interest in
+and to the Software, including all intellectual property rights.
+
+5. UPDATES
+The Licensor may provide updates or patches to the Software. This EULA applies to all
+updates unless accompanied by a separate license agreement.
+
+6. TERMINATION
+This EULA is effective until terminated. The Licensor may terminate this EULA if you
+breach any term. Upon termination, you must stop using and delete all copies of the Software.
+
+7. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND.
+THE LICENSOR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT,
+INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO THE
+USE OF OR INABILITY TO USE THE SOFTWARE.
+
+9. GOVERNING LAW
+This EULA is governed by the laws of the jurisdiction where the Licensor resides,
+without regard to conflict of laws principles.
+
+10. CONTACT
+If you have questions about this EULA, contact: bogdanguranda@gmail.com
